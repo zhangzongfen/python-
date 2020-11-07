@@ -4,53 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/窗口切换.py" line="26" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26ed7f9a-8293-4185-8ea8-c3bb83f775bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PO_selenium_demo/testCases/testLogin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python自动化测试学习.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python自动化测试学习.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/Image/2020_20_04_17_50_19_login_success.png" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/Image/2020_20_04_17_50_19_login_success.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/Image/2020_20_04_18_02_49_login_success.png" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/Image/2020_20_04_18_02_49_login_success.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/Image/2020_20_04_18_08_49_login_success.png" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/Image/2020_20_04_18_08_49_login_success.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/Image/2020_20_04_18_48_08_login_success.png" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/Image/2020_20_04_18_48_08_login_success.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/Image/2020_20_05_09_34_31_login_success.png" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/Image/2020_20_05_09_34_31_login_success.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/Image/2020_20_05_09_43_00_login_success.png" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/Image/2020_20_05_09_43_00_login_success.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/Image/2020_20_05_09_59_49_login_success.png" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/Image/2020_20_05_09_59_49_login_success.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/Image/2020_20_05_10_21_10_login_success.png" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/Image/2020_20_05_10_21_10_login_success.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/Image/2020_20_05_10_22_47_login_success.png" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/Image/2020_20_05_10_22_47_login_success.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/Image/2020_20_05_10_28_15_login_success.png" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/Image/2020_20_05_10_28_15_login_success.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/allTests.py" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/allTests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/basepase/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/basepase/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/basepase/homeBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/basepase/homeBase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/common/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/common/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/common/getImage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/common/getImage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/common/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/common/helper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/common/ownUnit.py" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/common/ownUnit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/data/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/data/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/data/info.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/data/info.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/data/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/data/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/page/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/page/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/page/loginpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/page/loginpage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/report/2020-10-05-09-59-38report.html" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/report/2020-10-05-09-59-38report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/report/2020-10-05-10-20-59report.html" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/report/2020-10-05-10-20-59report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/report/2020-10-05-10-22-37report.html" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/report/2020-10-05-10-22-37report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/report/2020-10-05-10-28-04report.html" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/report/2020-10-05-10-28-04report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/testCases/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PO_selenium_demo/testCases/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO/testCases/testLogin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_selenium/Reports/2020-10-05-09-57-22report.html" beforeDir="false" afterPath="$PROJECT_DIR$/py_demo/Reports/2020-10-05-09-57-22report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_selenium/TestCases/Excel_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_demo/TestCases/Excel_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_selenium/TestCases/Myunit.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_demo/TestCases/Myunit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_selenium/TestCases/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_demo/TestCases/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_selenium/TestCases/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/py_demo/TestCases/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_selenium/TestCases/data.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/py_demo/TestCases/data.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_selenium/TestCases/datainfo.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/py_demo/TestCases/datainfo.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_selenium/TestCases/excel_ddt_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_demo/TestCases/excel_ddt_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_selenium/TestCases/testUnit.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_demo/TestCases/testUnit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_selenium/TestCases/yaml_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_demo/TestCases/yaml_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_selenium/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_demo/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_selenium/allTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_demo/allTest.py" afterDir="false" />
-    </list>
+    <list default="true" id="26ed7f9a-8293-4185-8ea8-c3bb83f775bb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,25 +191,7 @@
             <path>
               <item name="python-selenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="PO_selenium_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="PO_selenium_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="basepase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="PO_selenium_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="PO_selenium_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="py_demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -545,8 +481,16 @@
       <workItem from="1601946943916" duration="855000" />
       <workItem from="1602473927596" duration="20000" />
       <workItem from="1604734136933" duration="947000" />
-      <workItem from="1604739299450" duration="338000" />
+      <workItem from="1604739299450" duration="885000" />
     </task>
+    <task id="LOCAL-00001" summary="修改命名">
+      <created>1604739842751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604739842751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -582,7 +526,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54613000" />
+    <option name="totallyTimeSpent" value="55160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -612,6 +556,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改命名" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改命名" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$javaScript.coverage" NAME="javaScript定位 Coverage Results" MODIFIED="1600867776918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

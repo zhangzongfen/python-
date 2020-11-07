@@ -4,7 +4,7 @@ import logging, os
 
 class Helper(object):
     def readExceles(self, rows):
-        book = xlrd.open_workbook("D:\\PyCharm 2019.1.1\\workspace\\python自动化测试学习\\PO_selenium_demo\\data\\info.xlsx", "r")
+        book = xlrd.open_workbook("D:\\PyCharm 2019.1.1\\workspace\\python-selenium\\PO_selenium_demo\\data\\info.xlsx", "r")
         table = book.sheet_by_index(0)
         return table.row_values(rows)
 
@@ -17,7 +17,7 @@ class Helper(object):
     def exceptText(self, rows):
         return str(self.readExceles(rows)[2])
 
-    def dirname(self, filename, filepath='D:\\PyCharm 2019.1.1\\workspace\\python自动化测试学习\\PO_selenium_demo\\data'):
+    def dirname(self, filename, filepath='D:\\PyCharm 2019.1.1\\workspace\\python-selenium\\PO_selenium_demo\\data'):
         return os.path.join(os.path.dirname(os.path.dirname(__file__)), filepath, filename)
 
     # H = Helper()
