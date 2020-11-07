@@ -1,0 +1,9 @@
+userNull:
+  username: ""
+  password: ""
+  asserText: "请输入账号密码"
+
+passNull:
+  username: "123@sohu.com"
+  password: ""
+  asserText: "请输入账号密码"

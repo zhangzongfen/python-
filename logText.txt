@@ -1,0 +1,10 @@
+2020-10-04 18:32:33,953-logTest-CRITICAL-logging的应用:(message)s
+2020-10-04 18:32:33,953-logTest-INFO-logging的应用:(message)s
+2020-10-04 18:32:33,953-logTest-DEBUG-logging的应用:(message)s
+2020-10-04 18:32:33,953-logTest-WARNING-logging的应用:(message)s
+2020-10-04 18:32:33,953-logTest-INFO-logging的应用:(message)s
+2020-10-04 18:33:09,564-logTest-CRITICAL-logging的应用:info
+2020-10-04 18:33:09,564-logTest-INFO-logging的应用:info日志
+2020-10-04 18:33:09,564-logTest-DEBUG-logging的应用:debug日志
+2020-10-04 18:33:09,564-logTest-WARNING-logging的应用:warning日志
+2020-10-04 18:33:09,564-logTest-INFO-logging的应用:info日志

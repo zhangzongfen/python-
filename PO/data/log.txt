@@ -1,0 +1,20 @@
+2020-10-05 09:42:56,754-logTest-INFO-helper:PO-jsh:打开浏览器进入地址
+2020-10-05 09:42:57,055-logTest-INFO-helper:PO-jsh: 登录
+2020-10-05 09:43:00,094-logTest-INFO-helper:PO-jsh: 断言
+2020-10-05 09:43:00,520-logTest-INFO-helper:PO-jsh: 截图
+2020-10-05 09:59:46,585-logTest-INFO-helper:PO-jsh:打开浏览器进入地址
+2020-10-05 09:59:46,881-logTest-INFO-helper:PO-jsh: 登录
+2020-10-05 09:59:49,915-logTest-INFO-helper:PO-jsh: 断言
+2020-10-05 09:59:50,283-logTest-INFO-helper:PO-jsh: 截图
+2020-10-05 10:21:06,766-logTest-INFO-helper:PO-jsh:打开浏览器进入地址
+2020-10-05 10:21:07,076-logTest-INFO-helper:PO-jsh: 登录
+2020-10-05 10:21:10,110-logTest-INFO-helper:PO-jsh: 断言
+2020-10-05 10:21:10,455-logTest-INFO-helper:PO-jsh: 截图
+2020-10-05 10:22:44,680-logTest-INFO-helper:PO-jsh:打开浏览器进入地址
+2020-10-05 10:22:44,939-logTest-INFO-helper:PO-jsh: 登录
+2020-10-05 10:22:47,968-logTest-INFO-helper:PO-jsh: 断言
+2020-10-05 10:22:48,324-logTest-INFO-helper:PO-jsh: 截图
+2020-10-05 10:28:11,804-logTest-INFO-helper:PO-jsh:打开浏览器进入地址
+2020-10-05 10:28:12,095-logTest-INFO-helper:PO-jsh: 登录
+2020-10-05 10:28:15,133-logTest-INFO-helper:PO-jsh: 断言
+2020-10-05 10:28:15,492-logTest-INFO-helper:PO-jsh: 截图
