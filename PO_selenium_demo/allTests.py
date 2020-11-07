@@ -1,7 +1,7 @@
 import time, unittest, os
 from HTMLTestReportCN import HTMLTestRunner
-from PO.common.helper import *
-from PO.page.loginpage import *
+from PO_selenium_demo.common.helper import *
+from PO_selenium_demo.page.loginpage import *
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart

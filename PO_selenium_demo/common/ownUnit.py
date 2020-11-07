@@ -1,5 +1,5 @@
-from PO.basepase.homeBase import *
-from PO.page.loginpage import *
+from PO_selenium_demo.basepase.homeBase import *
+from PO_selenium_demo.page.loginpage import *
 from selenium import webdriver
 import unittest
 from selenium.webdriver.support.ui import WebDriverWait
