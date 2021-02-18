@@ -18,3 +18,4 @@
 2020-10-05 10:28:12,095-logTest-INFO-helper:PO-jsh: 登录
 2020-10-05 10:28:15,133-logTest-INFO-helper:PO-jsh: 断言
 2020-10-05 10:28:15,492-logTest-INFO-helper:PO-jsh: 截图
+2021-02-18 14:05:21,143-logTest-INFO-helper:PO_selenium_demo-jsh:打开浏览器进入地址

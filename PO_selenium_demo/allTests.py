@@ -1,5 +1,5 @@
 import time, unittest, os
-from HTMLTestReportCN import HTMLTestRunner
+from PO_selenium_demo.common.HTMLTestReportCN import HTMLTestRunner
 from PO_selenium_demo.common.helper import *
 from PO_selenium_demo.page.loginpage import *
 import smtplib
